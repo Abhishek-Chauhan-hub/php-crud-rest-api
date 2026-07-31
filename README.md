@@ -23,7 +23,7 @@ A simple CRUD REST API built using Core PHP and MySQL. The API performs Create, 
 ## API Endpoint
 
 ```text
-http://localhost/api/api.php
+http://localhost/onepageapi/user.php
 ```
 
 ## API Methods
